@@ -19,3 +19,10 @@ body {
 .site-wrapper-inner {
     vertical-align: middle;
 }
+
+.mastfoot {
+    position: fixed;
+    bottom: 0;
+    color: rgba(255,255,255,.5);
+    padding: 2rem;
+}

@@ -31,10 +31,8 @@
 }
 
 .mastfoot {
-    position: fixed;
-    bottom: 0;
-    color: rgba(255,255,255,.5);
-    padding: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
 }
 
 .avatar {

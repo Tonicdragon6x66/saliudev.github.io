@@ -36,10 +36,14 @@
 
 }
 
+.img-thumbnail {
+    height:150px;
+}
+
 .appblock {
     margin-top: 1rem;
 }
 
 .appright {
-    margin-left: 2rem;
+    padding-left: 3rem;
 }

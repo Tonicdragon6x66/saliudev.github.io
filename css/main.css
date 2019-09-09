@@ -37,6 +37,8 @@
 }
 
 .img-thumbnail {
-    height:150px;
+    margin-left: 10rem;
+    margin-top:.5rem;
+    margin-bottom: .5rem;
 }
 
